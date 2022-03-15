@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "986425652733",
+    "project_id": "flashcardo",
+    "storage_bucket": "flashcardo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986425652733:android:f6b37428a6b7502a655594",
+        "android_client_info": {
+          "package_name": "com.example.flashcardo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986425652733-cch1uagh5kh7r23kg91jdjiimi82bpoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flashcardo",
+            "certificate_hash": "0154e5062281d1e5c40214aa0ee48c957b409933"
+          }
+        },
+        {
+          "client_id": "986425652733-01ppavp1fdt01nhp857npbguulaeqngf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWyZui4x2sCroRcwB44mmCgW8JHyEj3tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986425652733-01ppavp1fdt01nhp857npbguulaeqngf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
