@@ -3,9 +3,9 @@
 This is a flashcard self-learning tool to help user to learn new knowledge and do revision.
 
 ## Features:
-* customize own study sets 
-* create flashcards for each study set
-* edit existing study sets and flashcards
-* shuffle orders of flashcards for better learning efficiency
-* take Multiple Choice Question or True or False formats' quizzes to test user's recall
-* view history statistics of quizzes taken 
+* Customize own study sets 
+* Create flashcards for each study set
+* Edit existing study sets and flashcards
+* Shuffle orders of flashcards for better learning efficiency
+* Take Multiple Choice Question or True or False formats' quizzes to test user's recall
+* View history statistics of quizzes taken 
