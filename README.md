@@ -1,6 +1,6 @@
 # FlashCardo: A Self-Paced Learning Mobile Application
 
-This is a flashcard self-learning tool to help user to learn new knowledge and do revision.
+This is a flashcard self-learning mobile app to help user to learn new knowledge and do revisions.
 
 ## Features:
 * Customize own study sets 
